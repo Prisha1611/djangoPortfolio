@@ -1,0 +1,54 @@
+ body {
+            font-family: 'Roboto', sans-serif;
+        }
+
+        .navbar-brand {
+            font-size: 1.5rem;
+        }
+
+        .nav-link {
+            color: #ffffff !important;
+        }
+
+        #carousel-container {
+            height: 600px;
+            overflow: hidden;
+        }
+
+        #carouselExample .carousel-inner .carousel-item img {
+            height: 70%;
+            width: 50%;
+            object-fit: cover;
+            margin: 40px;
+        }
+
+        section {
+            margin: 50px 0;
+            text-align: center;
+        }
+
+        h2 {
+            color: #343a40;
+        }
+
+        p {
+            color: #6c757d;
+        }
+
+        #contact {
+            background-color: #f8f9fa;
+            padding: 50px 0;
+        }
+
+        .contact-form {
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+        }
+
+        footer {
+            background-color: #343a40;
+            color: #ffffff;
+            padding: 20px 0;
+        }
